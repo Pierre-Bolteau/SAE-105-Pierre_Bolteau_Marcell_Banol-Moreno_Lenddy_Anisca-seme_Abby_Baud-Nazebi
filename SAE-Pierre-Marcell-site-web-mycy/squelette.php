@@ -19,7 +19,7 @@
 <body>
     <section class="conteneur-1280">
         <?php require_once('./ressources/includes/header.php'); ?>
-        <p>tdytdytdytdytd</p>
+    
         <!-- Vous allez principalement écrire votre code HTML ci-dessous -->
         <main class="conteneur-principal">
             <h1 class="titre-page">TITRE DE PAGE A REMPLACER !!!</h1>
