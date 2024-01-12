@@ -3,7 +3,9 @@
         <li>
             <a href="index.php">ACCUEIL</a>
         </li>
-        <li>A PROPOS</li>
+        <li>
+            <a href="A-propos.php">A PROPOS</a>
+        </li>
         <li>LIEUX DE VIE</li>
         <li>CONTACT</li>
     </ul>

@@ -24,21 +24,7 @@
         <?php require_once('./ressources/includes/header.php'); ?>
 
         <!-- Vous allez principalement écrire votre code HTML ci-dessous -->
-        <nav>
-            <ol class="navbar">
-                <li><a href="#">ACCUEIL</a></li>
-                <li><a href="#">A PROPOS</a></li>
-                <li><a href="#">LIEUX DE VIE</a></li>
-                <li><a href="#">SUR LES MEDIAS</a></li>
-                <li><a href="#">CONTACT</a></li>
-            </ol>
-        </nav>
-        <!-- Partie Titre avec logo-bulle -->
-        <div class="bulle">
-            <h1 class="titre"><span class="txt-grand">Bachelor Universitaire de Technologie</span><br><span class="txt-petit">Métiers du Multimédia et de l'Internet</span></h1>
-            <img class="bulle-icon" src="ressources/images/bulle.svg" alt=""/>
-        </div>
-        <!-- Fin Partie Titre avec logo-bulle -->
+       
         <main class="conteneur-principal">
             <h1 class="titre-page">Articles sur le BUT MMI</h1>
 
