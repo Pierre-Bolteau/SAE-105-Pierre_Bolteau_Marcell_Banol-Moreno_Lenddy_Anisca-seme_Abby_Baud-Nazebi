@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="ressources/css/ne-pas-modifier/npm-header.css">
     <link rel="stylesheet" href="ressources/css/a-propos.css">
     <link rel="stylesheet" href="ressources/css/header-a-propos.css">
+    <link rel="stylesheet" href="ressources/css/barre-navigation.css">
 </head>
 
 <body>
@@ -54,7 +55,7 @@
                 </ul>
 
                 <div class="conteneur-maison">
-                    <img class="image-maison" src="ressources/images/UQAC.jpg" alt="Photo d'une maison canadiene rouge au bord de l'eau en automne">
+                    <img class="image-maison" src="ressources/images/UQAC.JPG" alt="Photo d'une maison canadiene rouge au bord de l'eau en automne">
                 </div>
 
                 <p class="paragraphe-A-propos">A CY Cergy Paris Université, il est donné la possibilité aux étudiants de passer un semestre au Québec 
@@ -94,7 +95,7 @@
                 <ul class="conteneur-pierre">
                     <li class="conteneur-article">
                         <figure>
-                            <img class="image-SAE-104" src="ressources/images/SAE-104.jpg" alt="Photo d'un Projet ouvert sur Davinci resolve">
+                            <img class="image-SAE-104" src="ressources/images/SAE-104.JPG" alt="Photo d'un Projet ouvert sur Davinci resolve">
                         </figure>
                         <h1 class="titre-article">Produire un contenu audio et vidéo ● SAÉ 104</h1>
                         <p class="description">Apprendre les bases du reportage vidéo sur un sujet libre</p>

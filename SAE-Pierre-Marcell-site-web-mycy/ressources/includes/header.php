@@ -6,8 +6,15 @@
         <li>
             <a href="A-Propos.php">A PROPOS</a>
         </li>
-        <li>LIEUX DE VIE</li>
-        <li>CONTACT</li>
+        <li>
+            <a href="lieux-de-vie.php">LIEUX DE VIE</a>
+        </li>
+        <li>
+            <a href="media.php">SUR LES MÉDIAS</a>
+        </li>
+        <li>
+            <a href="Contact.php">CONTACT</a>
+        </li>
     </ul>
 </nav>
 
