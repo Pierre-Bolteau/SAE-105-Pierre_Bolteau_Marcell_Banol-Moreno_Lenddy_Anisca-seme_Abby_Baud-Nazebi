@@ -14,8 +14,9 @@
     <link rel="stylesheet" href="ressources/css/ne-pas-modifier/npm-fonts.css">
     <link rel="stylesheet" href="ressources/css/ne-pas-modifier/npm-global.css">
     <link rel="stylesheet" href="ressources/css/ne-pas-modifier/npm-header.css">
-    <link rel="stylesheet" href="ressources/css/ne-pas-modifier/media-abby.css">
+    <link rel="stylesheet" href="ressources/css/media-abby.css">
     <link rel="stylesheet" href="ressources/css/barre-navigation.css">
+    <link rel="stylesheet" href="ressources/css/footer.css">
 </head>
 
 <body>
@@ -36,6 +37,7 @@
             <li class="video"><p class="titre-vid">Job interview au département MMI</p><iframe width="560" height="315" src="https://www.youtube.com/embed/t72pdxpNjyc?si=h7vtY034hrG7xC5S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure></li>
             <li class="video"><p class="titre-vid">L'importance de l'IUT dans les études supérieures</p><iframe width="560" height="315" src="https://www.youtube.com/embed/xD4wshE0hEg?si=l9-6TM9gP-JFKe0l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></figure></li>
         </ul>
+        <?php require_once('./ressources/includes/footer.php'); ?>
     </section>
 </body>
 </html>

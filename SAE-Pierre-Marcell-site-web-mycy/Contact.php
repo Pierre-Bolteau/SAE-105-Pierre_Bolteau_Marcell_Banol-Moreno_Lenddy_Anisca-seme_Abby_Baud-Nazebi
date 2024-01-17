@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="ressources/css/Contact.css">
     <link rel="stylesheet" href="ressources/css/header-Contact.css">
     <link rel="stylesheet" href="ressources/css/barre-navigation.css">
+    <link rel="stylesheet" href="ressources/css/footer.css">
 </head>
 
 <body>
@@ -80,13 +81,17 @@
                     </ul>
                 </form>
                 <h1 class="titre-page">Nous contacter par courrier</h1>
-                <p class="paragraphe-Contact">IUT de Cergy-Pontoise,<br>
-                Département Métiers du Multimédia et de l'internet (MMI)<br>
-                34 Bis Boulevard Henri Bergson<br> 95200 Sarcelles</p>
+                <ul class="conteuneur-contact-list">
+                    <li class="conteuneur-contact-paragraphe"><p>IUT de Cergy-Pontoise,</p></li>
+                    <li class="conteuneur-contact-paragraphe"><p>Département Métiers du Multimédia et de l'internet (MMI)</p></li>
+                    <li class="conteuneur-contact-paragraphe"><p>34 Bis Boulevard Henri Bergson</p></li>
+                    <li class="conteuneur-contact-paragraphe"><p>95200 Sarcelles</p></li>
+                </ul>
             </section>
 
             <!-- à continuer ici. Mettre le code respectif de chaque page ici -->
         </main>
+        <?php require_once('./ressources/includes/footer.php'); ?>
     </section>
 </body>
 </html>

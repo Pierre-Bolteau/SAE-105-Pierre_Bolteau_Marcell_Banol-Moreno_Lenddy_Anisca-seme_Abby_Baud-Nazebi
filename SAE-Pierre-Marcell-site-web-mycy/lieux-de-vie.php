@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="ressources/css/ne-pas-modifier/npm-header.css">
     <link rel="stylesheet" href="ressources/css/lieux-de-vie.css">
     <link rel="stylesheet" href="ressources/css/barre-navigation.css">
+    <link rel="stylesheet" href="ressources/css/footer.css">
 </head>
 
 <body>
@@ -82,7 +83,8 @@
         </li>
     </ul>
             <!-- à continuer ici. Mettre le code respectif de chaque page ici -->
-        </main>
+    </main>
+    <?php require_once('./ressources/includes/footer.php'); ?>
     </section>
 </body>
 </html>

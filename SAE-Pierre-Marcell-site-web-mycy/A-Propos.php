@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="ressources/css/a-propos.css">
     <link rel="stylesheet" href="ressources/css/header-a-propos.css">
     <link rel="stylesheet" href="ressources/css/barre-navigation.css">
+    <link rel="stylesheet" href="ressources/css/footer.css">
 </head>
 
 <body>
@@ -140,6 +141,7 @@
             
         <!-- à continuer ici. Mettre le code respectif de chaque page ici -->
         </main>
+        <?php require_once('./ressources/includes/footer.php'); ?>
     </section>
 </body>
 </html>

@@ -58,3 +58,14 @@ input[type="text"] {
     margin-left: 2rem;
     margin-right: 2rem;
 }
+
+.conteuneur-contact-list {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-bottom: 3rem;
+}
+
+.conteuneur-contact-paragraphe {
+    margin-bottom: 0.3rem;
+}
