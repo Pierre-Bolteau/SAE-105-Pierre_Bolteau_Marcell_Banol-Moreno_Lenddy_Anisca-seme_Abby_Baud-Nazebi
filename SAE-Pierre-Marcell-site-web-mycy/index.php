@@ -18,11 +18,11 @@
     <!-- Fin des css venant du dossier ne_pas_modifier -->
 
     <!-- Partie des css venant du dossier css_modif -->
-    <link rel="stylesheet" href="ressources/css/deco_accueil.css">
-    <link rel="stylesheet" href="ressources/css/footer.css">
-    <link rel="stylesheet" href="ressources/css/barre-navigation.css">
+    <link rel="stylesheet" href="ressources/css/css_modif/barre-navigation.css">
+    <link rel="stylesheet" href="ressources/css/css_modif/accueil.css">
+    <link rel="stylesheet" href="ressources/css/css_modif/footer.css">
     <!-- Fin des css venant du dossier css_modif -->
-    
+
     <!-- Vous n'avez pas besoin de ce fichier sur les autres pages. Ca allège le temps de chargement et diminue la consommation d'électricité -->
     <link rel="stylesheet" href="ressources/css/ne-pas-modifier/npm-accueil.css">
 </head>
@@ -36,11 +36,11 @@
             <h1 class="titre-page">Articles sur le BUT MMI</h1>
 
             <section class="colonne">
-                <section class="liste-articles">
+                <section class="liste-articlesMMI">
                     <ul>
                         <li>
                             <figure>
-                                <img src="ressources/images/Juan.jpg" alt="une image test"/>
+                                <img src="ressources/images/dev-web.jpg" alt="image représentant le parcour développement web"/>
                             </figure>
                             <articles>
                                 <h1 class="titre">Développement Web</h1>
@@ -52,25 +52,25 @@
                         </li>
                         <li>
                             <figure>
-                                <img src="ressources/images/Juan.jpg" alt="une image test"/>
+                                <img src="ressources/images/crea-num.jpg" alt="une image représentant le parcour création numerique"/>
                             </figure>
                             <articles>
-                                <h1 class="titre">Développement Web</h1>
-                                <p class="description">Le parcours développement Web et dispositifs interactifs forme au développement de sites Web et à l’intégration d’applications multimédias ou mobiles.
-                                    Il aborde notamment les outils et langages informatiques nécessaires à la conception et à la gestion de ces médias.
-                                    Il prépare notamment aux métiers d’intégrateur ; de développeur « back », « front », ou « full stack »  d’intégrateur de dispositifs de réalité virtuelle.
+                                <h1 class="titre">Création Numérique</h1>
+                                <p class="description">Le parcours création numérique vise à développer l’expression de message sur différents médias, sous la forme de création graphique et d’écriture multimédia. 
+                                    II permet d’acquérir les techniques nécessaires à la création de ressources numériques, notamment de publications Web. 
+                                    Il prépare principalement aux métiers de designer, infographiste, game designer ou technicien audiovisuel.
                                 </p>
                             </articles>
                         </li>
                         <li>
                             <figure>
-                                <img src="ressources/images/Juan.jpg" alt="une image test"/>
+                                <img src="ressources/images/strat-com.jpg" alt="une image représentant le parcour stratégie de communication"/>
                             </figure>
                             <articles>
-                                <h1 class="titre">Développement Web</h1>
-                                <p class="description">Le parcours développement Web et dispositifs interactifs forme au développement de sites Web et à l’intégration d’applications multimédias ou mobiles.
-                                    Il aborde notamment les outils et langages informatiques nécessaires à la conception et à la gestion de ces médias.
-                                    Il prépare notamment aux métiers d’intégrateur ; de développeur « back », « front », ou « full stack »  d’intégrateur de dispositifs de réalité virtuelle.
+                                <h1 class="titre">Stratégie de Communication et Design d'Expérience</h1>
+                                <p class="description">Le parcours stratégie de communication numérique et design d’expérience forme à la conception de supports de communication « orientés utilisateurs » (facilité de navigation, ergonomie, visibilité sur le Web…). 
+                                    Il permet d’acquérir les techniques nécessaires pour déployer une stratégie de communication numérique et gérer des projets. 
+                                    Il prépare principalement aux métiers de chargé de communication numérique, d’UX designer, de rédacteur Web, de community manager, de spécialiste du référencement sur Internet…
                                 </p>
                             </articles>
                         </li>
