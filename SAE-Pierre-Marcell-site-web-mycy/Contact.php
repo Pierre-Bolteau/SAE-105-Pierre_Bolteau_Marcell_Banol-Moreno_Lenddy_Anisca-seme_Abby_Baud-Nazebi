@@ -1,5 +1,6 @@
 <?php
     $couleur_bulle_classe = "jaune";
+    
 ?>
 <!DOCTYPE html>
 <html lang="fr">
